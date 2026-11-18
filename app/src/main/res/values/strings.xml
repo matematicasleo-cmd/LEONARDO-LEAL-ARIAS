@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AstroMate</string>
+    <string name="nav_missions">Misiones</string>
+    <string name="nav_learning">Aprender</string>
+    <string name="nav_challenge">Reto</string>
+    <string name="nav_lab">Lab</string>
+    <string name="nav_progress">Progreso</string>
+    <string name="screen_welcome_profile">Bienvenida y Perfil</string>
+    <string name="screen_missions_map">Mapa de Misiones</string>
+    <string name="screen_learning_zone">Zona de Aprendizaje</string>
+    <string name="screen_math_challenge">Reto Matemático</string>
+    <string name="screen_problem_lab">Laboratorio de Problemas</string>
+    <string name="screen_rewards">Recompensas</string>
+    <string name="screen_progress">Mi Progreso</string>
+    <string name="screen_teacher_panel">Panel del Docente</string>
+    <string name="cd_student_avatar">Abrir perfil de estudiante</string>
+    <string name="cd_rewards_button">Abrir bóveda de recompensas</string>
+    <string name="cd_teacher_panel">Abrir panel del docente</string>
+    <string name="cd_back">Volver</string>
+</resources>
